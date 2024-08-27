@@ -38,7 +38,6 @@ func Day2Part2() {
 
 	fmt.Println("Completed calculation")
 	fmt.Println(powerSum)
-
 }
 
 func Day2() {
