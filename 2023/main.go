@@ -1,10 +1,10 @@
 package main
 
 import (
-	"2023/day1"
+	"2023/day2"
 )
 
 func main() {
-	// run the given day
-	day1.Day1()
+	// day1.Day1()
+	day2.Day2Part2()
 }
