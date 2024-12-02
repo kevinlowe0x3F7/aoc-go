@@ -1,7 +1,6 @@
 package day5
 
 import (
-	"2023/shared"
 	"bufio"
 	"fmt"
 	"log"
@@ -9,6 +8,8 @@ import (
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/kevinlowe0x3F7/aoc-go/shared"
 )
 
 // MapEntry holds the start and end names, along with the associated numbers

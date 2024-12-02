@@ -1,8 +1,6 @@
 package main
 
-import (
-	"2023/day5"
-)
+import "github.com/kevinlowe0x3F7/aoc-go/2023/day5"
 
 func main() {
 	// day1.Day1()
